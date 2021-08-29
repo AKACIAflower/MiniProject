@@ -9,3 +9,5 @@
 4. [HTML/CSS] Design House Webpage
 
 5. [HTML/CSS] Full Screen Landing Page
+
+6. [HTML/CSS/JS] Making Calculator (with grid)
