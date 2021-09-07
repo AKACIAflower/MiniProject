@@ -11,3 +11,5 @@
 5. [HTML/CSS] Full Screen Landing Page
 
 6. [HTML/CSS/JS] Making Calculator (with grid)
+
+7. [JS] Guess Number
