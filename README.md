@@ -13,3 +13,5 @@
 6. [HTML/CSS/JS] Making Calculator (with grid)
 
 7. [JS] Guess Number
+
+8. [JS] Rolling Dice
