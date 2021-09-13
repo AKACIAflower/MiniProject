@@ -15,3 +15,5 @@
 7. [JS] Guess Number
 
 8. [JS] Rolling Dice
+
+9. [HTML/CSS/JS] Making 3D Cube Banner
