@@ -17,3 +17,5 @@
 8. [JS] Rolling Dice
 
 9. [HTML/CSS/JS] Making 3D Cube Banner
+
+10. [HTML/CSS/JS] Typing Effect Landing Page
