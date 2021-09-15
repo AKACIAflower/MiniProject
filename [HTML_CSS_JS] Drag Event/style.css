@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.list {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item {
+  color: white;
+  font-size: 30px;
+  list-style: none;
+  background-color: palevioletred;
+  width: 100px;
+  height: 90px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
