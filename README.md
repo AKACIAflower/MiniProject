@@ -19,3 +19,5 @@
 9. [HTML/CSS/JS] Making 3D Cube Banner
 
 10. [HTML/CSS/JS] Typing Effect Landing Page
+
+11. [HTML/CSS/JS] Drag Event
