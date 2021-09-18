@@ -23,3 +23,5 @@
 11. [HTML/CSS/JS] Drag Event
 
 12. [HTML/CSS/JS] Record Program
+
+13. [HTML/CSS/JS] Typing Game
