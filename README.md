@@ -25,3 +25,5 @@
 12. [HTML/CSS/JS] Record Program
 
 13. [HTML/CSS/JS] Typing Game
+
+14. [HTML/CSS/JS] Puzzle Game
